@@ -1,0 +1,7 @@
+.BrandDecContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 130px 0px;
+    background-color: #dce4e1;
+}

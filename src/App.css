@@ -1,0 +1,4 @@
+.allContent{
+    display: flex;
+    flex-direction: column;
+}
