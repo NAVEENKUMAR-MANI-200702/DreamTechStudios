@@ -4,4 +4,14 @@
     justify-content: center;
     padding: 130px 0px;
     background-color: #dce4e1;
+    width: 100%;
 }
+.container{
+    display: inline-block;
+}
+.animatedText {
+    font-size: 2rem;
+    letter-spacing: 8px;
+    width: 100%;
+}
+
