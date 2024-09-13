@@ -3,7 +3,7 @@ import "../styles/components/VideoDisplay.css"
 
 const VideoDisplay = () => {
   return (
-    <div className='videoContents'>VideoDisplay</div>
+    <div className='videoContents' to="home">VideoDisplay</div>
   )
 }
 

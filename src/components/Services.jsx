@@ -10,7 +10,7 @@ const Services = () => {
   });
 
   return (
-    <div className="serviceContents">
+    <div className="serviceContents" id="services">
       <div>all services</div>
       <div ref={ref} className="projectCounts">
         <div className="designDetails">

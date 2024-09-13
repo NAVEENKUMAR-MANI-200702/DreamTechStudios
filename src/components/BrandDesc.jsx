@@ -12,7 +12,7 @@ const BrandDesc = () => {
   });
 
   return (
-    <div className='BrandDecContainer'>
+    <div className='BrandDecContainer' id="about-us">
       <div className='container'>
         <h1>Dream Tech Studio</h1>
         <h1>
